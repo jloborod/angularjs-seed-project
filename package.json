@@ -11,7 +11,7 @@
     "deploy": "gulp production --deploy"
   },
   "dependencies": {
-    "angular": "1.6.5",
+    "angular": "1.8.3",
     "angular-loading-bar": "0.9.0",
     "angular-messages": "1.6.5",
     "angular-ui-router": "1.0.3"
